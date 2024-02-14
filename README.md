@@ -1,6 +1,28 @@
-Submission for the ICP Zero to Dapp Hackathon
+## ChainHive: Your Decentralized Cross-Chain Freelance Marketplace
+
+**ChainHive** is a revolutionary freelance marketplace built on the **Internet Computer** that empowers both freelancers and clients with secure, transparent, and borderless transactions. Leveraging the power of **cross-chain functionality**, ChainHive allows users to seamlessly work across different blockchains, unlocking a wider talent pool and diverse payment options.
+
+**What makes ChainHive unique?**
+
+* **Cross-chain operability:** Freely connect with talent and clients across different blockchains, expanding your reach and opportunities. (✅)
+* **Smart contract powered:** Utilize pre-built and secure smart contracts for escrow, payments, and service agreements, ensuring trust and transparency. ()
+* **Decentralized governance:** Participate in the decision-making process and shape the future of the platform through community governance. ()
+* **Crypto-agnostic:** Accept and make payments in various cryptocurrencies using integrated payment gateway APIs. ()
+* **Built on the Internet Computer:** Enjoy the benefits of high speed, scalability, and strong security offered by the ICP. ()
+
+**Getting Started:**
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/sabelosibanda/chainhive](https://github.com/sabelosibanda/chainhive)
+
+2. **CD frontend:**
+   cd frontend
+
+3. **Install dependencies:**
+   npm install
+
+4. **Run the development server:**
+   npm run dev
 
 
-A platform for freelancers and clients to connect, collaborate, and transact across ICP, BTC, and ETH, 
-utilizing smart contracts for secure project agreements, payments in multiple cryptocurrencies, and NFTs 
-for unique gig offerings or reputation.
