@@ -34,9 +34,9 @@ Smart contracts: Motoko and Rust
 
 **Features:**
 
-**Freelance profile management:** Create and showcase your skills and experience. (✅)
-**Project listing and search:** Find and post projects based on diverse criteria. (✅)
-**Secure escrow payments:** Ensure trust and timely payments through smart contracts. (Next milestone)
-**Decentralized reputation system:** Build trust and credibility through community-driven feedback. (Next milestone)
-**Cross-chain integration:** Seamlessly work across different blockchains with compatible tokens. (ETH and BTC integration in progress)
-**Community governance:** Participate in decision-making and shape the platform's future. (next milestone)
+* **Freelance profile management:** Create and showcase your skills and experience. (✅)
+* **Project listing and search:** Find and post projects based on diverse criteria. (✅)
+* **Secure escrow payments:** Ensure trust and timely payments through smart contracts. (Next milestone)
+* **Decentralized reputation system:** Build trust and credibility through community-driven feedback. (Next milestone)
+* **Cross-chain integration:** Seamlessly work across different blockchains with compatible tokens. (ETH and BTC integration in progress)
+* **Community governance:** Participate in decision-making and shape the platform's future. (next milestone)
