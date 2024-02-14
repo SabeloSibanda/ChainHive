@@ -1,5 +1,7 @@
 ## ChainHive: Your Decentralized Cross-Chain Freelance Marketplace
 
+https://www.loom.com/share/fbfa0aa9a5d14a1c894c62d98bf2494a?sid=f48d38f5-d0ba-489a-80d3-40ede8b26d71
+
 **ChainHive** is a revolutionary freelance marketplace built on the **Internet Computer** that empowers both freelancers and clients with secure, transparent, and borderless transactions. Leveraging the power of **cross-chain functionality**, ChainHive allows users to seamlessly work across different blockchains, unlocking a wider talent pool and diverse payment options.
 
 **What makes ChainHive unique?**
@@ -15,17 +17,23 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/sabelosibanda/chainhive](https://github.com/sabelosibanda/chainhive)
+   git clone https://github.com/sabelosibanda/chainhive
+   ```
 
 2. **CD frontend:**
+   ```bash
    cd frontend
+   ```
 
-3. **Install dependencies:**
+4. **Install dependencies:**
+   ```bash
    npm install
-
-4. **Run the development server:**
+   ```
+   
+6. **Run the development server:**
+   ```bash
    npm run dev
-
+   ```
 
 
 **Technology Stack:**
