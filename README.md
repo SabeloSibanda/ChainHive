@@ -10,6 +10,7 @@
 * **Crypto-agnostic:** Accept and make payments in various cryptocurrencies using integrated payment gateway APIs. (ETH and BTC integration in progress)
 * **Built on the Internet Computer:** Enjoy the benefits of high speed, scalability, and strong security offered by the ICP. (✅)
 
+
 **Getting Started:**
 
 1. **Clone the repository:**
@@ -24,6 +25,7 @@
 
 4. **Run the development server:**
    npm run dev
+
 
 
 **Technology Stack:**
