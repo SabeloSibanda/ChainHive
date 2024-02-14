@@ -42,7 +42,7 @@ Frontend: Next.js
 Blockchain: Internet Computer (ICP)
 Smart contracts: Motoko and Rust
 
-**Features:**
+**Features roadmap:**
 
 * **Freelance profile management:** Create and showcase your skills and experience. (✅)
 * **Project listing and search:** Find and post projects based on diverse criteria. (✅)
