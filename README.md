@@ -6,11 +6,11 @@ https://www.loom.com/share/fbfa0aa9a5d14a1c894c62d98bf2494a?sid=f48d38f5-d0ba-48
 
 **What makes ChainHive unique?**
 
-* **Cross-chain operability:** Freely connect with talent and clients across different blockchains, expanding your reach and opportunities. (✅)
-* **Smart contract powered:** Utilize secure smart contracts for escrow, payments, and service agreements, ensuring trust and transparency. (Next milestone)
-* **Decentralized governance:** Participate in the decision-making process and shape the future of the platform through community governance. (Next milestone)
-* **Crypto-agnostic:** Accept and make payments in various cryptocurrencies using integrated payment gateway APIs. (ETH and BTC integration in progress)
-* **Built on the Internet Computer:** Enjoy the benefits of high speed, scalability, and strong security offered by the ICP. (✅)
+* **Cross-chain operability:** Freely connect with talent and clients across different blockchains, expanding your reach and opportunities. 
+* **Smart contract powered:** Utilize secure smart contracts for escrow, payments, and service agreements, ensuring trust and transparency. 
+* **Decentralized governance:** Participate in the decision-making process and shape the future of the platform through community governance. 
+* **Crypto-agnostic:** Accept and make payments in various cryptocurrencies using integrated payment gateway APIs. 
+* **Built on the Internet Computer:** Enjoy the benefits of high speed, scalability, and strong security offered by the ICP. 
 
 
 **Getting Started:**
